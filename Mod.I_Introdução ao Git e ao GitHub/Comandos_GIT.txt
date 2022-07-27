@@ -1,0 +1,14 @@
+git init
+git add
+git commit
+
+ls
+ls -a
+
+git config --global user.e-mail "mjsantos.santos@hotmail.com"
+
+git config --global user.name moisesjsantos
+
+git add *
+
+git commit -m "Commit vários arquivos do repositorio projeto inicial"
