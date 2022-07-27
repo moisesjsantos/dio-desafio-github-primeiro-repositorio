@@ -17,6 +17,8 @@ git add .
 git commit -m "Commit vários arquivos do repositorio projeto inicial"
 
 git push
-git push origin master (envia para repositorio on-line)
+git push origin master	: envia para repositorio on-line
 
-git pull origin master	(puchar o repositorio on-line)
+git pull origin master	: puchar o repositorio on-line
+
+git remote -v : verifica para onde o repositorio esta apontado

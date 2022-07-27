@@ -1,0 +1,28 @@
+A propriedade "display: flex" pode ser aplicada qualquer tipo de tag (div, span, section, h1...h6,...a)
+
+Flex Container possui propriedades relacionadas:
+display 		: inicializador do container
+flex-direction 	: fazer o direcionamento dos itens seja em linhas ou colunas
+flex-wrap 		: quebra de linha ou não
+flex-flow		: abreviação para o direction ou wrap
+justify-content	: alinhar os itens do container de acordo com sua direção
+align-items		: alinhar esses itens do eixo container
+align-content	: alinhar as linhas container
+
+Flex Item podem ser Flex Container possui propriedades relacionadas:
+
+flex-grow	: define o fator de crescimento
+flex-basic	: define o tamanho do item antes da distribuição do espaço restante
+flex-shrink	: define a capacidade de redução
+flex		: forma simplificada para o grow, basic e shrink
+order		: relacionado a ordem de distribuição e listagem dos itens
+align-self	: define o alinhamento de um item especifico do Container
+
+Sugestões para as aulas
+Editor Visual Studio Code (VSCode)
+Extensões: HTML Snippets e Live HTML Previewer
+
+No VSCode CTRL+SHIF+P e buscar por Show Live Server Previewer
+
+div.item*3 : Criar um div com tres itens
+Link Slides: https://drive.google.com/file/d/1cSBnkzCsCaqkbiUssLW7LCVCw5yErRCk/view

@@ -26,6 +26,16 @@ HTML 5 - 2014
 <footer>
 <h1>-<h6>
 
+<a>Link</a>
+<a href="https://www.linkedin.com/in/moisesjsantos/">LinkedIn</a>
+<a href="mailto: moises.santos@hotmail.com">E-mail</a>
+<a target="_blankLink</a>
+
+<img>
+<img src="postagem_1.jpg">
+<img alt="Editor de texto contendo código HTML">
+<img src="postagem_1.jpg" alt="Editor de texto contendo código HTML">
+
 ##Site para textos exemplos
 https://pt.lipsum.com/
 
@@ -34,3 +44,13 @@ https://unsplash.com/
 
 ##Site para reduzir tamanho de imagens
 https://tinypng.com/
+
+Listas
+<ul>
+	Item 1
+	Item 2
+
+<ol>
+	1. Item 1
+	2. Item 2
+<li>
