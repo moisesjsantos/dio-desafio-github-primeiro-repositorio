@@ -17,3 +17,4 @@ git add .
 git commit -m "Commit vários arquivos do repositorio projeto inicial"
 
 git push
+git push origin master
