@@ -1,0 +1,36 @@
+##Introdução ao HTML 5
+
+HTML 1 - 1991
+HTML 2 - 1995
+HTML 3 - 1997
+HTML 4 - 1997
+HTML 5 - 2014
+
+##Estrutura Básica
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+<body>
+	
+</body>
+</html>
+
+##Semântica HTML5(2014)
+<section>
+<header>
+<article>
+<aside>
+<footer>
+<h1>-<h6>
+
+##Site para textos exemplos
+https://pt.lipsum.com/
+
+##Site para exemplos imagens
+https://unsplash.com/
+
+##Site para reduzir tamanho de imagens
+https://tinypng.com/

@@ -1,0 +1,35 @@
+GUI: Grafic User Interface
+CLI: Command Line Interface
+
+Comandos Windows
+cd / 				: vai para raiz
+cd .. 				: volta um nivel de pasta
+cd Nome_Pasta 		: move para pasta especifica
+dir 				: exibe o conteudo da pasta
+mkdir 				: cria a pasta especifica 
+del 				: apaga o conteudo da pasta
+rmdir 				: remove tudo inclusive a pasta
+cls					: limpa a tela do terminal
+TAB(Alto Completar) : alto completa 
+mkdir workspace		: remove o diretorio com nome workspace
+echo hello			: exibe na tela do terminal o texto "hello"
+echo hello > hello.txt	: cria o arquivo "hello.txt" com o texto "hello"
+del					: deleta os arquivos do diretorio
+rmdir workspace /S /Q : deleta os arquivos diretorio "workspace"
+
+
+Comandos Unix(Linux)
+cd / 				: vai para raiz
+cd .. 				: volta um nivel de pasta
+cd Nome_Pasta 		: move para pasta especifica
+ls 					: exibe o conteudo da pasta
+ls -l 				: exibe o conteudo da pasta com suas permissões
+ls -a 				: exibe o conteudo da pasta incluive arquivos ocultos
+mkdir 				: cria a pasta especifica 
+rm -rf 				: remove tudo inclusive a pasta
+clear ou CTRL+L		: limpa a tela do terminal
+TAB(Alto Completar) : alto completa 
+mkdir workspace		: cria o diretorio com nome "workspace"
+echo hello			: exibe na tela do terminal o texto "hello"
+echo hello > hello.txt	: cria o arquivo "hello.txt" com o texto "hello"
+rm -rf workspace	: deleta os arquivos diretorio "workspace"
